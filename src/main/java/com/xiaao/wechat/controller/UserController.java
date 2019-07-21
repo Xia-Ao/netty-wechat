@@ -18,7 +18,6 @@ import com.xiaao.wechat.utils.FastDFSClient;
 import com.xiaao.wechat.utils.FileUtils;
 import com.xiaao.wechat.utils.IMoocJSONResult;
 import com.xiaao.wechat.utils.MD5Utils;
-import org.apache.catalina.User;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
